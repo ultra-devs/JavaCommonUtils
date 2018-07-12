@@ -153,7 +153,7 @@
     <artifactId>logback-core</artifactId>
     <version>1.2.3</version>
 </dependency>
-<!-- added for json assert on 07-12-2018 -->
+<!-- json path -->
 <dependency>
    <groupId>com.flipkart.zjsonpatch</groupId>
 <artifactId>zjsonpatch</artifactId>
